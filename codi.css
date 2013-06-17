@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+#silang
+{
+	text-align:right;
+}
+
+#kotak
+{
+	background-image:url(image/home.png);
+	margin:auto;
+	margin-top:100px;
+	padding-top:20px;
+	padding-bottom:50px;
+	width:600px;
+	height:300px;
+	border:solid #000;	
+	text-align:center;
+}
+
+#kotak_soal
+{
+	background-color:#B5FF84;
+	margin:auto;
+	padding:20px;
+	width:600px;
+	height:auto;
+	border:solid #000;
+}
+
+#kotak_nama_pelajaran
+{
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	margin:auto;
+	margin-bottom:25px;
+	width:auto;
+	height:auto;
+	background-color:#FFF;
+}
+
+#kotak_nilai
+{
+	background-image:url(image/nilai.png);
+	margin:auto;
+	margin-top:100px;
+	padding-top:20px;
+	padding-bottom:50px;
+	width:600px;
+	height:300px;
+	border:solid #000;	
+	text-align:center;
+}
+
+#kotak_hasil_nilai
+{
+	color:#F00;
+	font-size:36px;
+	font-weight:bold;
+	margin:auto;
+	margin-top:165px;
+	margin-bottom:110px;
+	width:auto;
+	height:auto;
+}
+
+#kotak_pelajaran
+{
+	margin:auto;
+	margin-top:175px;
+	width:auto;
+	height:auto;
+	background-color:#CFC;
+}
+
+#kotak_copyright
+{
+	margin:auto;
+	margin-top:5px;
+	width:auto;
+	height:auto;
+	font-size:12px;
+	font-weight:bold;
+	text-align:center;
+}
+
+a:link {
+	color: #030;
+	text-decoration:none;
+    font-size:22px;
+}
+
+a:hover{
+	color: #030;
+	font-weight: bold;
+	text-decoration: none;
+    font-size:22px;
+	background-color:#FFF;
+}
+
+a:active{
+	color: #030;
+	font-weight: bold;
+	text-decoration: none;
+	font-size:22px;
+	background-color:#666;
+}	
