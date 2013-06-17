@@ -18,6 +18,3 @@ echo "<div id=kotak_copyright>";
 echo "Dibuat Oleh : Ardy Purnama Putra";
 echo "</div>";
 ?>
-
-Halo-halo Bandung
-Ibu kota periangan
