@@ -12,3 +12,7 @@ echo "Dibuat Oleh : Ardy Purnama Putra";
 echo "</div>";
 
 ?>
+
+
+Lagu halo-halo Bandung
+Ibu kota periangan

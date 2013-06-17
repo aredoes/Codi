@@ -21,3 +21,6 @@ echo "</div>";
 
 Halo-halo Bandung
 Ibu kota periangan
+Sudah lama beta tidak berjumpa dengan kao
+Sekarang telah menjadi lautan api,
+Mari bung rebut kembali
