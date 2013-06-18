@@ -11,12 +11,4 @@ echo "<div id=kotak_copyright>";
 echo "Dibuat Oleh : Ardy Purnama Putra";
 echo "</div>";
 
-<<<<<<< HEAD
 ?>
-=======
-?>
-
-
-Lagu halo-halo Bandung
-Ibu kota periangan
->>>>>>> origin/master
